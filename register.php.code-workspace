@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../htdocs/bugs-list"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../bugs-list"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "file-uploader"
+	}
+}
